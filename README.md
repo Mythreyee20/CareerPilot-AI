@@ -180,6 +180,14 @@ Build more real-world projects.
 
 ---
 
+## 🌐 Live Demo
+
+Frontend:
+https://career-pilot-ai-beta.vercel.app/
+
+Backend:
+https://careerpilot-ai-g5ah.onrender.com
+
 ## 👨‍💻 Developed By
 
 Mythreyee.S
