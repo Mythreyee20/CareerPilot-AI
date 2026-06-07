@@ -19,7 +19,7 @@ function App() {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:5000/upload",
+        "https://careerpilot-ai-g5ah.onrender.com/upload",
         formData
       );
 
